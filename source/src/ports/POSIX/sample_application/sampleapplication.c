@@ -29,10 +29,10 @@
 
 /* global variables for demo application (4 assembly data fields)  ************/
 
-EipUint8 g_assembly_data064[32]; /* Input */
-EipUint8 g_assembly_data096[32]; /* Output */
-EipUint8 g_assembly_data097[10]; /* Config */
-EipUint8 g_assembly_data09A[32]; /* Explicit */
+EipUint32 g_assembly_data064[32]; /* Input */
+EipUint32 g_assembly_data096[32]; /* Output */
+EipUint32 g_assembly_data097[10]; /* Config */
+EipUint32 g_assembly_data09A[32]; /* Explicit */
 
 /* local functions */
 
