@@ -5,5 +5,5 @@
 OpENer Version 2.3.0
 ====================
 
-To start use ./OpENer <inerface> e.g. ./OpENer eth0
+To start use ``./OpENer <inerface>`` e.g. ``./OpENer eth0``
 
